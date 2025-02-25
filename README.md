@@ -44,6 +44,6 @@
 ### **Доступ к приложению**:
 
 После завершения развертывания перейдите по ссылке:
-     - [http://localhost:8080/ision-board/feed](http://localhost:8080/ision-board/feed)
+     - [http://localhost:8080/vision-board/feed](http://localhost:8080/vision-board/feed)
 
 
